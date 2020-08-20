@@ -14,7 +14,7 @@ Intend - pretendo
 ```
 
 ## Expressões e jargões em inglês
-
+```
 1. Have a lot on someone's plate: estar cheia de tarefas ou atividades para fazer.
 
 2. Fine-tune: ajuste fino de algo.
@@ -88,4 +88,4 @@ The subway construction went over budget.
 * Under budget: abaixo do orçamento.
 * On a tight/limited budget: sem muito dinheiro, apertada de dinheiro.
 
-## 
+```
